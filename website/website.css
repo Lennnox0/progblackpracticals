@@ -1,0 +1,13 @@
+.header {font-family: "Comic Sans MS";
+        font-size: 50px;
+        background-color:gold ;}
+
+.label {display: block;
+        font-family: "Comic Sans MS";
+        font-size:30px}
+
+.centertext{text-align:center;}
+
+.centerimage{ display: block;
+            margin: auto;
+            width: 20%;}
